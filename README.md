@@ -67,6 +67,10 @@ OrangeHRM-Automation
 │       └── resources
 │           └── config.properties
 │
+├── docs
+│   └── images
+│       └── allure-report.png
+│
 ├── testing.xml
 ├── pom.xml
 ├── README.md
@@ -92,6 +96,12 @@ To execute the tests:
 | Passed | 6 |
 | Failed | 0 |
 | Skipped | 0 |
+
+## Allure Test Report
+
+The project uses Allure Reports to provide detailed test execution results.
+
+![Allure Report](docs/images/allure-report.png)
 
 ## Author
 
