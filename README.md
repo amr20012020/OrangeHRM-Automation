@@ -97,6 +97,12 @@ To execute the tests:
 | Failed | 0 |
 | Skipped | 0 |
 
+## TestNG Execution Results
+
+The regression suite successfully executed all 6 automated test cases.
+
+![TestNG Results](docs/images/testng-results.png)
+
 ## Allure Test Report
 
 The project uses Allure Reports to provide detailed test execution results.
